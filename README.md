@@ -1,4 +1,4 @@
 # Git
-a trail
-This is my first repository
+This is my first repository.
+<br>
 Author - kammara jijgnas
